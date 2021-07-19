@@ -1,0 +1,5 @@
+notify-py==0.3.3
+PyYAML==5.4.1
+Random-Word==1.0.7
+schedule==1.1.0
+
